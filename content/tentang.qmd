@@ -1,25 +1,15 @@
 ---
-title: "index"
+title: "Tim Kami"
 format: html
+toc: false
 ---
 
-## Quarto
+Tim kami saat ini terdiri atas:
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+1. Dr. Whinda Yustisia (Universitas Indonesia)
+2. Prof. Dr. Mirra Noor Milla (Universitas Indonesia)
+3. Dr. Moh. Abdul Hakim (Universitas Sebelas mMret )
+4. Dr. phil. Edo S. Jaya (Universitas Indonesia/Indonesian Psychological Healthcare Center)
+5. Rizqy Amelia Zein (Universitas Airlangga)
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+Kami membuka kesempatan kepada rekan-rekan yang tertarik untuk menerima informasi lebih lanjut tentang gerakan ini dengan cara mengisi **pernyataan ketertarikan** [<i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLSd9v1fd-wWGbLsMscCKisa67KX2tM5hzKnbpFmr2Pggi_BNVQ/viewform?usp=dialog).

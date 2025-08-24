@@ -3,13 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "jaringan Psikologi Sains Indonesia"
+  title: ""
   navbar:
     left:
-      - text: "📧"
-        href: mailto:jaspsi.indonesia@gmail.com
-      - icon: github
-        href: https://github.com/jaspsi
+      - icon: house
+        href: index.qmd
       - text: "Tentang"
         href: content/tentang.qmd
       - text: "Berita"
@@ -20,10 +18,28 @@ website:
         menu:
         - text: "Templat"
           href: content/aktivitas/contoh-kegiatan.qmd
+    right:
+      - text: "📧"
+        href: "mailto:jaspsi.indonesia@gmail.com"
+      - icon: github
+        href: https://github.com/jaspsi
+      
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+      left: "&#169; 2025 Tim Jaringan Sains Psikologi Indonesia"
+      center: |
+        <a class="link-dark me-1" href="https://github.com/jaspsi" title="github" target="_blank" rel="noopener">{{< iconify fa6-brands github >}}</a>
+        <a class="link-dark me-1" href=mailto:jaspsi.indonesia@gmail.com title="Email" target="_blank" rel="noopener">{{< iconify material-symbols:mail >}}</a>
+      right: |
+        <a class="link-dark me-1" href="https://github.com/jaspsi/jaspsi.github.io">{{< iconify fa6-brands github >}} Source</a>
+
         
 format:
   html:
-    theme: darkly
+    theme: cosmo
+    css: styles.css
     toc: true
     toc-location: right
     toc-depth: 3
