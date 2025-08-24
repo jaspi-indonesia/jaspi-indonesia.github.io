@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "jaringan Psikologi Sains Indonesia"
+  navbar:
+    left:
+      - text: "📧"
+        href: mailto:jaspsi.indonesia@gmail.com
+      - icon: github
+        href: https://github.com/jaspsi
+      - text: "Tentang"
+        href: content/tentang.qmd
+      - text: "Berita"
+        menu:
+        - text: "Mulai Inisiasi"
+          href: content/berita/inisiasi.qmd
+      - text: "Aktivitas"
+        menu:
+        - text: "Templat"
+          href: content/aktivitas/contoh-kegiatan.qmd
+        
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    toc-expand: true
+    include-in-header: 
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
