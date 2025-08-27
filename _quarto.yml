@@ -10,14 +10,14 @@ website:
         href: index.qmd
       - text: "Tentang"
         href: content/tentang.qmd
+      - text: "Aktivitas"
+        href: content/aktivitas/kegiatan.qmd
+      - text: "Saya tertarik!"
+        href: https://docs.google.com/forms/d/e/1FAIpQLSd9v1fd-wWGbLsMscCKisa67KX2tM5hzKnbpFmr2Pggi_BNVQ/viewform?usp=dialog
       - text: "Berita"
         menu:
         - text: "Mulai Inisiasi"
           href: content/berita/inisiasi.qmd
-      - text: "Aktivitas"
-        menu:
-        - text: "Templat"
-          href: content/aktivitas/contoh-kegiatan.qmd
     right:
       - text: "📧"
         href: "mailto:jaspsi.indonesia@gmail.com"

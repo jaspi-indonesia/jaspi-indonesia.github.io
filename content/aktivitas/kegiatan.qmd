@@ -1,0 +1,18 @@
+---
+title: "Aktivitas-Aktivitas JASPSI"
+date: last-modified
+date-format: "DD/MM/YYYY"
+author: Tim Jaspsi
+---
+
+Sebagai langkah awal, JASPSI akan mengadakan berbagai aktivitas seperti:
+
+1. Seminar publik
+2. Diskusi tematik
+3. Pembimbingan (*mentoring*) untuk peneliti awal karir
+4. Pelatihan metodologi dan penulisan
+5. Forum kaji etik penelitian
+6. [*Bootcamp*](https://codeworks.me/blog/what-does-bootcamp-mean-and-where-does-it-come-from/) dan [*hackathon*](en.wikipedia.org/wiki/Hackathon)
+7. Kegiatan stakeholder engagement untuk mendukung penghiliran hasil riset
+8. Konvensi tahunan yang dapat memperkuat jejaring peneliti psikologi di Indonesia
+

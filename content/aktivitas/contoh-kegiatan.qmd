@@ -1,7 +1,0 @@
----
-title: "Your Page Title"
-date: last-modified
-date-format: "DD/MM/YYYY"
-author: Tim Jaspsi
----
-
