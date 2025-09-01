@@ -22,7 +22,7 @@ website:
       - text: "📧"
         href: "mailto:jaspsi.indonesia@gmail.com"
       - icon: github
-        href: https://github.com/jaspsi
+        href: https://github.com/jaspi-indonesia
       
   search:
     location: navbar
@@ -30,10 +30,10 @@ website:
   page-footer:
       left: "&#169; 2025 Tim Jaringan Sains Psikologi Indonesia"
       center: |
-        <a class="link-dark me-1" href="https://github.com/jaspsi" title="github" target="_blank" rel="noopener">{{< iconify fa6-brands github >}}</a>
+        <a class="link-dark me-1" href="https://github.com/jaspi-indonesia" title="github" target="_blank" rel="noopener">{{< iconify fa6-brands github >}}</a>
         <a class="link-dark me-1" href=mailto:jaspsi.indonesia@gmail.com title="Email" target="_blank" rel="noopener">{{< iconify material-symbols:mail >}}</a>
       right: |
-        <a class="link-dark me-1" href="https://github.com/jaspsi/jaspsi.github.io">{{< iconify fa6-brands github >}} Source</a>
+        <a class="link-dark me-1" href="https://github.com/jaspi-indonesia/jaspi-indonesia.github.io">{{< iconify fa6-brands github >}} Source</a>
 
         
 format:
