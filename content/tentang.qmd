@@ -4,7 +4,7 @@ format: html
 toc: false
 ---
 
-Tim kami sementara ini terdiri atas:
+Tim kami **sementara ini** terdiri atas:
 
 1. Dr. Whinda Yustisia (Universitas Indonesia)
 2. Prof. Dr. Mirra Noor Milla (Universitas Indonesia)

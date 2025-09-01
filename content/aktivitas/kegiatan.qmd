@@ -1,11 +1,11 @@
 ---
-title: "Aktivitas-Aktivitas JASPSI"
+title: "Aktivitas-Aktivitas JASPI"
 date: last-modified
 date-format: "DD/MM/YYYY"
 author: Tim Jaspsi
 ---
 
-Sebagai langkah awal, JASPSI akan mengadakan berbagai aktivitas seperti:
+Sebagai langkah awal, JASPI akan mengadakan berbagai aktivitas seperti:
 
 1. Seminar publik
 2. Diskusi tematik

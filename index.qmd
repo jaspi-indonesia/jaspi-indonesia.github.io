@@ -8,15 +8,15 @@ toc: false
 
 ## Selamat Datang!
 
-Jaringan Sains Psikologi Indonesia merupakan entitas yang diinisiasi dengan visi, misi, dan tujuan berikut ini:
+Jaringan Sains Psikologi Indonesia (JASPI) merupakan entitas yang diinisiasi dengan visi, misi, dan tujuan berikut ini:
 
 ## Visi
 
-Jaringan Sains Psikologi Indonesia (JASPSI) hadir dengan visi menjadi wadah bagi ilmuwan dan praktisi psikologi untuk membangun tradisi riset yang kuat, inklusif, dan berdampak nyata. JASPSI juga mendorong agar orientasi perkembangan ilmu psikologi di Indonesia ditunjang oleh dua hal: penelitian psikologi yang cermat secara ilmiah dan praktik/layanan psikologi yang berkualitas. Harapannya, praktik/layanan psikologi disertai dengan bukti ilmiah yang dihasilkan dari penelitian yang cermat, sehingga dampaknya dapat dirasakan secara nyata oleh masyarakat.
+Jaringan Sains Psikologi Indonesia (JASPI) hadir dengan visi menjadi wadah bagi ilmuwan dan praktisi psikologi untuk membangun tradisi riset yang kuat, inklusif, dan berdampak nyata. JASPI juga mendorong agar orientasi perkembangan ilmu psikologi di Indonesia ditunjang oleh dua hal: penelitian psikologi yang cermat secara ilmiah dan praktik/layanan psikologi yang berkualitas. Harapannya, praktik/layanan psikologi disertai dengan bukti ilmiah yang dihasilkan dari penelitian yang cermat, sehingga dampaknya dapat dirasakan secara nyata oleh masyarakat.
 
 ## Misi
 
-Untuk mewujudkan visi tersebut, JASPSI mengemban misi:
+Untuk mewujudkan visi tersebut, JASPI mengemban misi:
 
 1. Meningkatkan kapasitas riset melalui pelatihan metodologi, penulisan ilmiah, dan etika penelitian
 2. Memperkuat jejaring kolaborasi antarpeneliti, perguruan tinggi, lembaga riset, dan praktisi psikologi
@@ -26,7 +26,7 @@ Untuk mewujudkan visi tersebut, JASPSI mengemban misi:
 
 ## Tujuan
 
-JASPSI bertujuan untuk menjadi komunitas yang:
+JASPI bertujuan untuk menjadi komunitas yang:
 
 1. Mewadahi dan mendukung ilmuwan psikologi maupun praktisi psikologi yang peduli pada kualitas riset
 2. Menjadi ruang pertukaran pengetahuan, *best practices*, dan sumber daya penelitian
