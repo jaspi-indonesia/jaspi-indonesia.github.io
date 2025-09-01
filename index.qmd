@@ -4,6 +4,8 @@ format: html
 toc: false
 ---
 
+![](files/logo.png){fig-align="center"}
+
 ## Selamat Datang!
 
 Jaringan Sains Psikologi Indonesia merupakan entitas yang diinisiasi dengan visi, misi, dan tujuan berikut ini:
@@ -19,7 +21,7 @@ Untuk mewujudkan visi tersebut, JASPSI mengemban misi:
 1. Meningkatkan kapasitas riset melalui pelatihan metodologi, penulisan ilmiah, dan etika penelitian
 2. Memperkuat jejaring kolaborasi antarpeneliti, perguruan tinggi, lembaga riset, dan praktisi psikologi
 3. Mendorong adopsi praktik riset yang terbuka dan transparan, agar temuan riset mudah direka-ulang (*reproducible*) dan dicoba-ulang (*replicable*)
-4. Memfasilitasi penghiliran temuan penelitian terapan agar dapat dimanfaatkan oleh pengguna hasil riset (pemerintah, industri, dan kelompok masyarakat)
+4. Memfasilitasi penghiliran temuan penelitian dasar dan terapan agar dapat dimanfaatkan oleh pengguna hasil riset (pemerintah, industri, dan kelompok masyarakat)
 5. Memperluas akses ke sumber daya riset bagi ilmuwan dan praktisi psikologi
 
 ## Tujuan

@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jaringan Sains Psikologi Indonesia",
-    "section": "",
-    "text": "Jaringan Sains Psikologi Indonesia merupakan entitas yang diinisiasi dengan visi, misi, dan tujuan berikut ini:"
-  },
-  {
     "objectID": "index.html#selamat-datang",
     "href": "index.html#selamat-datang",
     "title": "Jaringan Sains Psikologi Indonesia",
-    "section": "",
-    "text": "Jaringan Sains Psikologi Indonesia merupakan entitas yang diinisiasi dengan visi, misi, dan tujuan berikut ini:"
+    "section": "Selamat Datang!",
+    "text": "Selamat Datang!\nJaringan Sains Psikologi Indonesia merupakan entitas yang diinisiasi dengan visi, misi, dan tujuan berikut ini:"
   },
   {
     "objectID": "index.html#visi",
@@ -25,7 +18,7 @@
     "href": "index.html#misi",
     "title": "Jaringan Sains Psikologi Indonesia",
     "section": "Misi",
-    "text": "Misi\nUntuk mewujudkan visi tersebut, JASPSI mengemban misi:\n\nMeningkatkan kapasitas riset melalui pelatihan metodologi, penulisan ilmiah, dan etika penelitian\nMemperkuat jejaring kolaborasi antarpeneliti, perguruan tinggi, lembaga riset, dan praktisi psikologi\nMendorong adopsi praktik riset yang terbuka dan transparan, agar temuan riset mudah direka-ulang (reproducible) dan dicoba-ulang (replicable)\nMemfasilitasi penghiliran temuan penelitian terapan agar dapat dimanfaatkan oleh pengguna hasil riset (pemerintah, industri, dan kelompok masyarakat)\nMemperluas akses ke sumber daya riset bagi ilmuwan dan praktisi psikologi"
+    "text": "Misi\nUntuk mewujudkan visi tersebut, JASPSI mengemban misi:\n\nMeningkatkan kapasitas riset melalui pelatihan metodologi, penulisan ilmiah, dan etika penelitian\nMemperkuat jejaring kolaborasi antarpeneliti, perguruan tinggi, lembaga riset, dan praktisi psikologi\nMendorong adopsi praktik riset yang terbuka dan transparan, agar temuan riset mudah direka-ulang (reproducible) dan dicoba-ulang (replicable)\nMemfasilitasi penghiliran temuan penelitian dasar dan terapan agar dapat dimanfaatkan oleh pengguna hasil riset (pemerintah, industri, dan kelompok masyarakat)\nMemperluas akses ke sumber daya riset bagi ilmuwan dan praktisi psikologi"
   },
   {
     "objectID": "index.html#tujuan",
